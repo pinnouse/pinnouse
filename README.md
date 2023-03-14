@@ -1,16 +1,12 @@
-### Hi there 👋
+Welcome!
 
-<!--
-**pinnouse/pinnouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nicholas (he/him), but most people just call me Nick.
+I'm just a normal dude with a passion to make nice things.
+I also love following the field of ML, and especially most things seq2seq.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some Projects
+that I've helped build
+- [Oslyn](https://oslyn.io) - AI powered digital bandmate
+- [ZeroTwo-Bot](https://zerotwo.bot) & the original PokeCord - Some of the largest Discord bots to exist
+- [Lodestone](https://lodestone.cc) - Beautiful open source hosting tool for games such as Minecraft
+- [Nuxt-Auth](https://auth.nuxtjs.org/) - Authentication support for one of the world's most popular web frameworks
