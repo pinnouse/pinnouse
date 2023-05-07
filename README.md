@@ -2,7 +2,7 @@ Welcome!
 
 My name is Nicholas (he/him), but most people just call me Nick.
 I'm just a normal dude with a passion to make nice things.
-I also love following the field of ML, and especially most things seq2seq.
+I also love following the field of ML, usually most things seq2seq.
 
 ### Some Projects
 that I've helped build
